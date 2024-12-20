@@ -2,4 +2,4 @@
 
 ## Contributors
 
--Maria Rodrigues
+-M. Lourenco
