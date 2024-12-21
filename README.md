@@ -2,4 +2,4 @@
 
 ## Contributors
 
--M. Lourenco
+- M. Lourenco
