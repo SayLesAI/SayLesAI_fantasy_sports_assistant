@@ -2,4 +2,6 @@
 
 ## Contributors
 
--M. Lourenco
+- M. Lourenco
+- Les
+- Team-Crunchy-Tacos
